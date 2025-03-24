@@ -1,0 +1,17 @@
+# Snowflake connection configurations
+/config/connection.json
+
+# VS Code settings
+.vscode/*
+!.vscode/settings.json.example
+!.vscode/extensions.json
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db 

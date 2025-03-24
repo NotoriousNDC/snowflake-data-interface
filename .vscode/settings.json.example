@@ -1,0 +1,15 @@
+{
+  "snowflake.connections": {
+    "default": {
+      "account": "your-account-identifier",
+      "username": "your_username",
+      "authenticator": "snowflake",
+      "warehouse": "your_warehouse",
+      "database": "your_database",
+      "schema": "your_schema",
+      "role": "your_role"
+    }
+  },
+  "snowflake.enableTelemetry": false,
+  "snowflake.defaultConnection": "default"
+} 
